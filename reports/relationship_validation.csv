@@ -1,0 +1,8 @@
+child_table,child_column,parent_table,parent_column,nullable,child_rows,missing_child_keys,unmatched_rows,unmatched_unique_keys,unmatched_examples,missing_parent_keys,rows_in_duplicate_parent_keys,result
+orders,customer_id,customers,customer_id,False,99441,0,0,0,,0,0,PASS
+order_items,order_id,orders,order_id,False,112650,0,0,0,,0,0,PASS
+order_items,product_id,products,product_id,False,112650,0,0,0,,0,0,PASS
+order_items,seller_id,sellers,seller_id,False,112650,0,0,0,,0,0,PASS
+order_payments,order_id,orders,order_id,False,103886,0,0,0,,0,0,PASS
+order_reviews,order_id,orders,order_id,False,99224,0,0,0,,0,0,PASS
+products,product_category_name,category_translation,product_category_name,True,32951,610,13,2,pc_gamer | portateis_cozinha_e_preparadores_de_alimentos,0,0,FAIL
