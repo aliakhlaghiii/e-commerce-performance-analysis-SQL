@@ -1,0 +1,14 @@
+dataset,key_columns,purpose,rows,rows_with_missing_key,rows_in_duplicate_keys,duplicate_key_groups,result
+customers,customer_id,Primary key candidate,99441,0,0,0,PASS
+customers,customer_unique_id,Customer repetition check,99441,0,6342,2997,FAIL
+orders,order_id,Primary key candidate,99441,0,0,0,PASS
+orders,customer_id,Customer-to-order cardinality check,99441,0,0,0,PASS
+products,product_id,Primary key candidate,32951,0,0,0,PASS
+sellers,seller_id,Primary key candidate,3095,0,0,0,PASS
+order_items,order_id + order_item_id,Composite primary key candidate,112650,0,0,0,PASS
+order_payments,order_id + payment_sequential,Composite primary key candidate,103886,0,0,0,PASS
+category_translation,product_category_name,Primary key candidate,71,0,0,0,PASS
+order_reviews,review_id,Primary key candidate,99224,0,1603,789,FAIL
+order_reviews,review_id + order_id,Composite primary key candidate,99224,0,0,0,PASS
+order_reviews,order_id,Reviews-per-order check,99224,0,1098,547,FAIL
+geolocation,geolocation_zip_code_prefix,Postal-prefix uniqueness check,1000163,0,999120,17972,FAIL
