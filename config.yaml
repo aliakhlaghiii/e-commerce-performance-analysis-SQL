@@ -1,3 +1,8 @@
+database:
+  host: localhost
+  port: 5432
+  name: olist
+  schema: public
 paths:
   data_dir: data
   customers: data/olist_customers_dataset.csv
