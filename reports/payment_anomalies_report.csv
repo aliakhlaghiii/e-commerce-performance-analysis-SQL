@@ -1,0 +1,13 @@
+issue_type,order_id,order_status,order_purchase_timestamp,payment_sequential,payment_type,payment_installments,payment_value,item_count,item_value,freight_value,item_and_freight_total,payment_record_count,order_payment_total
+missing_payment,bfbd0f9bdef84302105ad712db648a6c,delivered,2016-09-15 12:16:38,,,,,3,134.97,8.49,143.46,0,
+nonpositive_installments,1a57108394169c0b47d8f876acc9ba2d,delivered,2018-05-15 16:25:14,2,credit_card,0,129.94,2,83.38,46.56,129.94,1,129.94
+nonpositive_installments,744bade1fcf9ff3f31d860ace076d422,delivered,2018-04-22 11:34:42,2,credit_card,0,58.69,1,45.90,12.79,58.69,1,58.69
+zero_payment_value,00b1cb0320190ca0daa2c88b35206009,canceled,2018-08-28 15:26:39,1,not_defined,1,0.00,0,,,,1,0.00
+zero_payment_value,45ed6e85398a87c253db47c2d9f48216,delivered,2017-06-08 21:18:45,3,voucher,1,0.00,1,56.99,14.15,71.14,3,71.14
+zero_payment_value,4637ca194b6387e2d538dc89b124b0ee,canceled,2018-09-03 14:14:25,1,not_defined,1,0.00,0,,,,1,0.00
+zero_payment_value,6ccb433e00daae1283ccc956189c82ae,delivered,2017-10-26 23:51:35,4,voucher,1,0.00,1,94.00,28.04,122.04,4,122.04
+zero_payment_value,8bcbe01d44d147f901cd3192671144db,delivered,2018-01-24 23:24:14,4,voucher,1,0.00,1,59.00,15.16,74.16,4,74.16
+zero_payment_value,b23878b3e8eb4d25a158f57d96331b18,delivered,2017-05-27 19:20:24,4,voucher,1,0.00,1,135.30,36.27,171.57,4,171.57
+zero_payment_value,c8c528189310eaa44a745b8d9d26908b,canceled,2018-08-28 20:05:14,1,not_defined,1,0.00,0,,,,1,0.00
+zero_payment_value,fa65dad1b0e818e3ccc5cb0e39231352,shipped,2017-04-20 12:45:34,13,voucher,1,0.00,1,392.55,65.44,457.99,29,457.99
+zero_payment_value,fa65dad1b0e818e3ccc5cb0e39231352,shipped,2017-04-20 12:45:34,14,voucher,1,0.00,1,392.55,65.44,457.99,29,457.99
