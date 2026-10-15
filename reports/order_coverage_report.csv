@@ -1,0 +1,9 @@
+order_status,total_orders,orders_without_items,orders_without_payments,orders_without_reviews
+delivered,96478,0,1,646
+shipped,1107,1,0,75
+canceled,625,164,0,20
+unavailable,609,603,0,14
+invoiced,314,2,0,5
+processing,301,0,0,6
+created,5,5,0,2
+approved,2,0,0,0
