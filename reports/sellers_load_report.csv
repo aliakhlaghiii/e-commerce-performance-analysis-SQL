@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,status
+sellers,3095,0,3095,3095,PASS
