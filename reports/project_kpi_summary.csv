@@ -1,0 +1,2 @@
+total_orders_all_statuses,first_purchase_date,last_purchase_date,delivered_orders,items_sold,merchandise_sales,freight_total,average_order_value,unique_customers,repeat_customers,repeat_customer_percentage,delivery_eligible_orders,delivery_excluded_orders,average_delivery_days,late_orders,late_order_percentage
+99441,2016-09-15,2018-08-29,96478,110197,13221498.11,2198275.64,137.04,93358,2801,3.00,96470,8,12.56,6534,6.77
