@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,distinct_orders,total_item_price,total_freight_value,negative_price_rows,negative_freight_rows,status
+order_items,112650,0,112650,112650,98666,13591643.70,2251909.54,0,0,PASS
