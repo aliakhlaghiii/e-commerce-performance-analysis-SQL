@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,status,missing_product_category_name,missing_product_name_lenght,missing_product_description_lenght,missing_product_photos_qty,missing_product_weight_g,missing_product_length_cm,missing_product_height_cm,missing_product_width_cm
+products,32951,0,32951,32951,PASS,610,610,610,610,2,2,2,2
