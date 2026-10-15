@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,distinct_zip_prefixes,duplicate_excess_rows,invalid_coordinate_rows,status
+geolocation,1000163,0,1000163,1000163,19015,261831,0,PASS
