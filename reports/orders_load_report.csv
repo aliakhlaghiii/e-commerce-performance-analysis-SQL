@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,missing_approved_at,missing_carrier_date,missing_customer_date,status
+orders,99441,0,99441,99441,160,1783,2965,PASS
