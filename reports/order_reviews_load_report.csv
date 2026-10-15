@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,distinct_orders,missing_comment_titles,missing_comment_messages,minimum_review_score,maximum_review_score,status
+order_reviews,99224,0,99224,99224,98673,87656,58247,1,5,PASS
