@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,status
+categories,71,0,71,71,PASS
