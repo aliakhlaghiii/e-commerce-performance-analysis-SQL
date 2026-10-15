@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,status
+customers,99441,0,99441,99441,PASS
