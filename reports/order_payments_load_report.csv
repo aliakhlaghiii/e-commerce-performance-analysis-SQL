@@ -1,0 +1,2 @@
+table_name,source_rows,rows_before,inserted_rows,rows_after,distinct_orders,total_payment_value,negative_payment_rows,zero_payment_rows,nonpositive_installment_rows,status
+order_payments,103886,0,103886,103886,99440,16008872.12,0,9,2,PASS
